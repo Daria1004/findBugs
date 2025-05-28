@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2831","Page freezes when selecting number of results to display","chromium","Wed May 28 06:54:22 GMT 2025","passed","Wed May 28 06:54:25 GMT 2025","Каталог товаров","findbugs.spec.js","",""
+"","6378","Changing currency should not freeze the page","chromium","Wed May 28 06:54:35 GMT 2025","passed","Wed May 28 06:54:41 GMT 2025","Карточка товара","store.spec.js","",""
+"","9382","Password retrieval does not work on AcademyBugs","chromium","Wed May 28 06:54:25 GMT 2025","passed","Wed May 28 06:54:34 GMT 2025","Аккаунт","forgotPassword.spec.js","",""
+"","4323","Comment form should not freeze the page on submission","chromium","Wed May 28 06:54:48 GMT 2025","passed","Wed May 28 06:54:53 GMT 2025","Карточка товара","store.spec.js","",""
+"","7591","Manufacturer link should not lead to error page","chromium","Wed May 28 06:54:41 GMT 2025","passed","Wed May 28 06:54:48 GMT 2025","Карточка товара","store.spec.js","",""
